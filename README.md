@@ -16,7 +16,15 @@ Hello, I am Mohammad Sufiyan !
 - 👍 I love to collaborate with people of my interest over code. I also love to participate hackathon. 
 - 🗣️ I am open for conversation over MERN Stack development!. 
 
- 
+## Experience 
+ - [CD Consultency]() 
+    - I had completed one project for CD consultency organisation which is used to manage the different contractor information.
+    - I had developed this project by using .net framework and MSaccess as a database.
+ - [ARK Foundation]() 
+    -  I had done one another project for ARK Foundation( www.aekalsekartrust.com ). It was challenging project for me because It was a big project which is consist of 3 modules but i had completed 1 module by using nodejs as a backend programing language.
+ - [KSAR LLP](https://ksarllp.com/)
+    - I am currently working on live E-commerce project( www.kainkleo.com ) with KSAR LLP.
+    - It is paid project which includes similar functionality like amazon and Flikart
  
 ## Tech Stack
 
