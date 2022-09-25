@@ -10,8 +10,8 @@ You can find me here :
 
 ## About Me
 Hello, I am Mohammad Sufiyan !
-- 🔭 I am a Junior year(3rd) Information Technology Undergraduate from India!.
-- 🌱 I am currently working on live E-commerce project(www.kainkleo.com) with kainkleo.
+- 🔭 I am a Final year(4th) Information Technology Undergraduate Student from India!.
+- 🌱 I have successfully completed one live E-commerce project(www.kainkleo.com) with kainkleo.
 - 👩‍💻 I find my technical interests in MERN Stack development. 
 - 👍 I love to collaborate with people of my interest over code. I also love to participate hackathon. 
 - 🗣️ I am open for conversation over MERN Stack development!. 
