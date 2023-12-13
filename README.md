@@ -10,21 +10,37 @@ You can find me here :
 
 ## About Me
 Hello, I am Mohammad Sufiyan !
-- 🔭 I am a Final year(4th) Information Technology Undergraduate Student from India!.
-- 🌱 I have successfully completed one live E-commerce project(www.kainkleo.com) with kainkleo.
-- 👩‍💻 I find my technical interests in MERN Stack development. 
+- 🔭 I am holding an experiece of 1 year as a Full Stack Developer @Remiges Pvt. Ltd.
+- 🌱 I have more than 2 years of experience working as a Freelancer in web development.
+- 🌱 I have successfully completed one live E-commerce project with kainkleo.
+- 👩‍💻 I find my technical interests in MEAN Stack development. 
 - 👍 I love to collaborate with people of my interest over code. I also love to participate hackathon. 
-- 🗣️ I am open for conversation over MERN Stack development!. 
+- 🗣️ I am open for conversation over MEAN Stack development!. 
 
 ## Experience 
+ - [Courseflix]() 
+    - The project aims to sell courses across various categories such as business, cooking, sports, etc.
+    - Interested users need to register on the portal to access and enroll in the available courses.
+    - Users can choose a speciﬁc course, initiating a dialog box that enables communication with the course owner.
+    - Once the details are ﬁnalized between the user and the owner, the owner adds the course to the user's account.
+    - Users can access their enrolled courses through the "MY PRODUCT" page.
+    - The portal oﬀers additional features including product wishlist, a live chat system, public reviews, comments, and more for an enhanced user experience.
+ - [ARK Foundation]() 
+    - Developing a software solution for an organization dedicated to supporting ﬁnancially disadvantaged individuals in Medical, Welfare, and Education.
+    - Focused on the Education module, speciﬁcally addressing challenges in managing scholarship and loan records.
+    - Existing manual process involves yearly ﬁle maintenance, leading to diﬃculties in historical record retrieval.
+    - Software includes distinct panels for data entry, heads of departments (HOD), CEO, Trustees, accounting, and administration.
+    - Software tackles diﬃculties in searching for historical records and supports queries like identifying beneﬁciaries within a family.
+ - [KSAR LLP]() 
+    - I had completed another live E-commerce project with KSAR LLP.
+    - It was paid project which includes similar functionality like amazon and Flipkart.
+    - The software enables seamless order processing for fashion, daily use, and lifestyle products.
+    - Users can add items to their wishlist, compare products, and proceed to checkout with options for quantity, size, and color selection.
+    - Additional features include the ability for users to leave product reviews, track orders, and cancel orders if needed.
+    - The admin panel provides eﬃcient tools for order management, updating products and categories, and adding notiﬁcations, oﬀers, and advertisements.
  - [CD Consultency]() 
     - I had completed one project for CD consultency organisation which is used to manage the different contractor information.
     - I had developed this project by using .net framework and MSaccess as a database.
- - [ARK Foundation]() 
-    -  I had done one another project for ARK Foundation( https://aekalsekartrust.com ). It was challenging project for me because It was a big project which is consist of 3 modules but i had completed 1 module by using nodejs as a backend programing language.
- - [KSAR LLP](https://ksarllp.com/)
-    - I had completed another live E-commerce project( www.kainkleo.com ) with KSAR LLP.
-    - It was paid project which includes similar functionality like amazon and Flipkart
  
 ## Tech Stack
 
