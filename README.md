@@ -10,7 +10,7 @@ You can find me here :
 
 ## About Me
 Hello, I am Mohammad Sufiyan !
-- 🔭 I am holding an experiece of 2 year as a Full Stack Developer @Remiges Pvt. Ltd.
+- 🔭 I am holding an experiece of 2 years as a Full Stack Developer @Remiges Pvt. Ltd.
 - 🌱 I have more than 2 years of experience working as a Freelancer in web development.
 - 🌱 I have successfully completed one live E-commerce project with kainkleo.
 - 👩‍💻 I find my technical interests in MEAN Stack development. 
