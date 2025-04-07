@@ -18,7 +18,7 @@ Hello, I am Mohammad Sufiyan !
 - 🗣️ I am open for conversation over MEAN Stack development!. 
 
 ## Experience 
- - [Courseflix](https://courseflix.io/) 
+ - [Courseflix]() 
     - The project aims to sell courses across various categories such as business, cooking, sports, etc.
     - Interested users need to register on the portal to access and enroll in the available courses.
     - Users can choose a speciﬁc course, initiating a dialog box that enables communication with the course owner.
