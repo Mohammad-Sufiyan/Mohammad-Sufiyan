@@ -18,13 +18,6 @@ Hello, I am Mohammad Sufiyan !
 - 🗣️ I am open for conversation over MEAN Stack development!. 
 
 ## Experience 
- - [Courseflix]() 
-    - The project aims to sell courses across various categories such as business, cooking, sports, etc.
-    - Interested users need to register on the portal to access and enroll in the available courses.
-    - Users can choose a speciﬁc course, initiating a dialog box that enables communication with the course owner.
-    - Once the details are ﬁnalized between the user and the owner, the owner adds the course to the user's account.
-    - Users can access their enrolled courses through the "MY PRODUCT" page.
-    - The portal oﬀers additional features including product wishlist, a live chat system, public reviews, comments, and more for an enhanced user experience.
  - [ARK Foundation]() 
     - Developing a software solution for an organization dedicated to supporting ﬁnancially disadvantaged individuals in Medical, Welfare, and Education.
     - Focused on the Education module, speciﬁcally addressing challenges in managing scholarship and loan records.
