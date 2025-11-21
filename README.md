@@ -18,6 +18,21 @@ Hello, I am Mohammad Sufiyan !
 - 🗣️ I am open for conversation over MEAN Stack development!. 
 
 ## Experience 
+ - [Remiges Technology PVT]() 
+   - Worked on large-scale enterprise applications, primarily CVLKRA and RTA, using Angular, Node.js, MongoDB, and Redis.
+   - Developed dynamic, configuration-driven forms with complex validations, multi-step flows, and conditional logic.
+   - Built reusable Angular components, shared services, interceptors, and scalable module structures following SOLID and DRY principles.
+   - Implemented API integrations using clean service-based architecture and advanced RxJS patterns for better performance and maintainability.
+   - Integrated Keycloak authentication, including login flow, token handling, session management, and role-based access control.
+   - Improved application performance by implementing lazy loading, optimizing Angular change detection, and reducing bundle sizes.
+   - Contributed to SSR setup to improve SEO, initial load time, and user experience.
+   - Optimized backend APIs by improving DB queries, implementing caching, and refining request/response workflows.
+   - Worked closely with cross-functional teams—backend, QA, product owners—to deliver features on time with high quality.
+   - Participated in code reviews, refactored legacy code, and improved project architecture and folder structure.
+   - Implemented structured error-handling architecture, supporting both field-level and global errors for cleaner UI/UX.
+   - Ensured clean, maintainable code with proper documentation, unit testing, and adherence to enterprise standards.
+
+Actively collaborated in sprint planning, requirement analysis, and estimating complex technical tasks.
  - [ARK Foundation]() 
     - Developing a software solution for an organization dedicated to supporting ﬁnancially disadvantaged individuals in Medical, Welfare, and Education.
     - Focused on the Education module, speciﬁcally addressing challenges in managing scholarship and loan records.
